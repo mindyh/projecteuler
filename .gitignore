@@ -1,0 +1,14 @@
+# visual studio junk 
+
+*.sln
+*.suo
+*.ncb
+*.ilk
+*.exe
+*.pdb
+*.vcproj*
+*.obj
+*.idb
+*.htm
+*.dep
+*.manifest
